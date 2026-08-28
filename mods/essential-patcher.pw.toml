@@ -1,0 +1,13 @@
+name = "Essential Patcher"
+filename = "essentialpatcher-1.19.2-Fabric-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1aEzsYFA/versions/gTfxGgHs/essentialpatcher-1.19.2-Fabric-1.0.8.jar"
+hash-format = "sha512"
+hash = "062c57e7881c563d561ca35270b22733c31a002e97cf618503abde655ea0cd922072d7437f161c1fa1c5fa72606215de53503a38c5f1d45453d3f1a9a4eec6f9"
+
+[update]
+[update.modrinth]
+mod-id = "1aEzsYFA"
+version = "gTfxGgHs"

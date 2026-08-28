@@ -1,0 +1,13 @@
+name = "Improved Vanilla"
+filename = "improvedvanilla-fabric-1.19.2-1.6.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VQVS8mIw/versions/hSeyDLoU/improvedvanilla-fabric-1.19.2-1.6.3.jar"
+hash-format = "sha512"
+hash = "b42f521b0adf74e545b52ea1a2ade531bdc7ea018c6835299ebcc208043ebc6c936fa20b524e7bf9b6728cfd9108c814d26301639bef7dbde246c9297f98e81b"
+
+[update]
+[update.modrinth]
+mod-id = "VQVS8mIw"
+version = "hSeyDLoU"

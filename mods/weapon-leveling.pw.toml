@@ -1,0 +1,13 @@
+name = "Lukas' Weapon Leveling"
+filename = "weaponleveling-1.19.2-2.1.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IuFgFiGE/versions/9txQnsd6/weaponleveling-1.19.2-2.1.1-fabric.jar"
+hash-format = "sha512"
+hash = "a94cfddf1020f36e429333e1f8744a5400f614d6780273d48bb9b0b80519226093a30c0763261e4e047f689bfd380b6a44aff0d7aafc1ec04edc36b1269dbf9f"
+
+[update]
+[update.modrinth]
+mod-id = "IuFgFiGE"
+version = "9txQnsd6"

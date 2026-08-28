@@ -1,0 +1,13 @@
+name = "Create: Ultimate Factory"
+filename = "create_ultimate_factory-1.9.0-fabric-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N9QToVpw/versions/tvaJdpyt/create_ultimate_factory-1.9.0-fabric-1.19.2.jar"
+hash-format = "sha512"
+hash = "10e4b79bbbea10dccf385c8d4c4d8ab05d2bb9f29217f3f391c6ae76663d904c5268f17ab4cce9cfa83c843f3e40a1df443f156db0aa7e2f02762a764a046803"
+
+[update]
+[update.modrinth]
+mod-id = "N9QToVpw"
+version = "tvaJdpyt"

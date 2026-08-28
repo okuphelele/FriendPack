@@ -1,0 +1,13 @@
+name = "VillagerQuests"
+filename = "villagerquests-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/83TKyAar/versions/kVhJofkV/villagerquests-1.0.7.jar"
+hash-format = "sha512"
+hash = "5ee930e879d8f7ba6099b8fe31572369b3d4293e37da7b9b5feeeeae0c140f83c7f1075a81e711d0bfc8c9f55c0a8620ccd97f1405e039c7bb0a7d4e8829f8fc"
+
+[update]
+[update.modrinth]
+mod-id = "83TKyAar"
+version = "kVhJofkV"

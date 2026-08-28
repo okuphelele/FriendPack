@@ -1,0 +1,13 @@
+name = "FriendPack"
+author = "Sol"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a0fc648b54c90eec435b00e3a2135edd6d0f551119a38e254e251e1132e9ee25"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.19.2"

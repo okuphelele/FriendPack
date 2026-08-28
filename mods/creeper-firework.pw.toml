@@ -1,0 +1,13 @@
+name = "Creeper Firework"
+filename = "creeper_firework-1.19.2-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/owUiXPam/versions/neaoByre/creeper_firework-1.19.2-1.4.0.jar"
+hash-format = "sha512"
+hash = "331cba6c4e06b7dba58c560692b226cbf20b72390f620582448fcb951bcb96b0c3b2cf6e9e7d5e0433233e6ee72aef396ba646727aee4ef854c6736c4d37f45b"
+
+[update]
+[update.modrinth]
+mod-id = "owUiXPam"
+version = "neaoByre"

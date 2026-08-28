@@ -1,0 +1,13 @@
+name = "Always Infect Villagers"
+filename = "always_infect-1.19.2-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/k0xi33yM/versions/6Xc0mmIu/always_infect-1.19.2-1.0.1.jar"
+hash-format = "sha512"
+hash = "e4ec425216e89315f1bbe7e9069d8be2910bd1d7601c96d95f44bbbf97dde2f80ed800a0f9384c89ee7851e7c29ced9f335ed65a1cb001d2c89670ec6f586c91"
+
+[update]
+[update.modrinth]
+mod-id = "k0xi33yM"
+version = "6Xc0mmIu"

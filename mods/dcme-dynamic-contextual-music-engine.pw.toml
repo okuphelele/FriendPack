@@ -1,0 +1,13 @@
+name = "[DCME] Dynamic Contextual Music Engine"
+filename = "dcme-mc1.19.2-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uDwJAaHz/versions/XjqHTAN7/dcme-mc1.19.2-fabric-1.0.3.jar"
+hash-format = "sha512"
+hash = "105fe743d80b9f8d41c1d2b42397b3d05ee7e45822386fe5de656338f7feb07a99793fa241251bdd1cd794614178787159579a116424fcc31571c28479f5ff60"
+
+[update]
+[update.modrinth]
+mod-id = "uDwJAaHz"
+version = "XjqHTAN7"

@@ -1,0 +1,13 @@
+name = "Shifty Hotbar"
+filename = "shifty-hotbar-mc1.19-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vtzg2pos/versions/mc1.19-1.1/shifty-hotbar-mc1.19-1.1.jar"
+hash-format = "sha512"
+hash = "f181a6eb7d708ab8044d3905d9e8a91a00b7d2a6698e236cda9b4dd7e4dafffc69d599efe5ba63259e4cba320d8a72d3f396fbd26361c50d5c4ac653317e9478"
+
+[update]
+[update.modrinth]
+mod-id = "Vtzg2pos"
+version = "1s3a23Cf"

@@ -1,0 +1,13 @@
+name = "Respawning Shulkers"
+filename = "respawningshulkers-1.19.2-3.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gHCmhGUV/versions/D3LU9a1F/respawningshulkers-1.19.2-3.7.jar"
+hash-format = "sha512"
+hash = "b94a0805b43220c804e2adecf1938bdef7465197e6803e54e22109c81a22eb3cece0c85e47c86b8fccba381b9e641bd3d0c860e52cb4abe7cbdd095bd73715ba"
+
+[update]
+[update.modrinth]
+mod-id = "gHCmhGUV"
+version = "D3LU9a1F"

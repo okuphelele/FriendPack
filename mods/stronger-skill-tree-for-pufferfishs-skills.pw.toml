@@ -1,0 +1,13 @@
+name = "Stronger Skill Tree"
+filename = "Stronger Skill Tree.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KsIs7qhw/versions/rvcDZJJd/Stronger%20Skill%20Tree.jar"
+hash-format = "sha512"
+hash = "1689b50e9ad93a0761ed8ac7b8c232464693609e99269f377c30efa61c0bb7c999a92c77fb11aabcff5a8b2d902ce3be9414feb56658f885562226a0a7cdbfe6"
+
+[update]
+[update.modrinth]
+mod-id = "KsIs7qhw"
+version = "rvcDZJJd"

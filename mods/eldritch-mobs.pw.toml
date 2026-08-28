@@ -1,0 +1,13 @@
+name = "Eldritch Mobs"
+filename = "eldritch-mobs-1.13.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/emXFPmJd/versions/pUU2JtUM/eldritch-mobs-1.13.2.jar"
+hash-format = "sha512"
+hash = "89c2b568a8b661c0d07534cb700a197e389e8d40073a05ea5dbe0df052acbe07f2da2e8d75c47eb1e9b9b2fd0c9a8146322f71d56c3e8cd93acb998b0ac86687"
+
+[update]
+[update.modrinth]
+mod-id = "emXFPmJd"
+version = "pUU2JtUM"

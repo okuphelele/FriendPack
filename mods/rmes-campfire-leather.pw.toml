@@ -1,0 +1,13 @@
+name = "RME's Campfire Leather"
+filename = "rmes-campfire-leather-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6vL2LZV7/versions/3pizpIfq/rmes-campfire-leather-1.1.6.jar"
+hash-format = "sha512"
+hash = "a51c9a95befc7f0829e4a327003d3be4e15d744e74fe6f7efb70d7eaaba1c78e0ec9f941915e465d795f0373b2dcf68632519ab10eb9f79051023df05513cce9"
+
+[update]
+[update.modrinth]
+mod-id = "6vL2LZV7"
+version = "3pizpIfq"

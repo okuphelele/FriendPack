@@ -1,0 +1,13 @@
+name = "ExtraSounds"
+filename = "extrasounds-v3-legacy-3.0.1+1.21.11+1.14-build.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uPWCQrVL/versions/om11Nxju/extrasounds-v3-legacy-3.0.1%2B1.21.11%2B1.14-build.3.jar"
+hash-format = "sha512"
+hash = "6f760792c6179cc88087c55612059079fa839956b0b48a7a6ccf937fb4a90d5d4d9931d846f76b98db673b1f03e0a676a0ab55ad443c2f251b5789cf3e11357e"
+
+[update]
+[update.modrinth]
+mod-id = "uPWCQrVL"
+version = "om11Nxju"

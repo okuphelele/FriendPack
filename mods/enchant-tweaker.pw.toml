@@ -1,0 +1,13 @@
+name = "Enchant Tweaker"
+filename = "enchanttweaker-1.4.9+mc1.19-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e4Vpm1dD/versions/qi3D92f8/enchanttweaker-1.4.9%2Bmc1.19-1.19.2.jar"
+hash-format = "sha512"
+hash = "ad86e3f8608f231b229f17ba2f528af96c3b1e040e3e41bd5b001d7fbfea657f4c11082d28cb183845548c1685ba834b07da78e1ad2bcee03d516492af2b81e0"
+
+[update]
+[update.modrinth]
+mod-id = "e4Vpm1dD"
+version = "qi3D92f8"
