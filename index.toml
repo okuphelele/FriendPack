@@ -501,6 +501,11 @@ hash = "f7295c8dc91f5d58d17bfe2d679ff4cf8ebf87ef5e8a8797f61ae4c1e998109d"
 metafile = true
 
 [[files]]
+file = "mods/visuality.pw.toml"
+hash = "95f662d4becbbe792b8fb9b46eabc1bb4e14ff34b19516ec7dc230e749461dc5"
+metafile = true
+
+[[files]]
 file = "mods/weapon-leveling.pw.toml"
 hash = "5cd69b45e9daf509bf57e97015af0af7e20692a6c151a3d2375f3e6b5daa9fa5"
 metafile = true
