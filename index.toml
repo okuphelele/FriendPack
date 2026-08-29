@@ -296,6 +296,11 @@ hash = "674064d3622274c6ebf5662d934a8cf7226243e37cb4305d4eaa49f43c053b20"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "b6e4bfc108a039b2993d91c861744da43ffa87fcf8e249dc43f7662a013cf8c4"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
 metafile = true
