@@ -151,11 +151,6 @@ hash = "228c250d8c2e02fdaebf252cff633ac212df4880fdb584c9de403d9a27b25120"
 metafile = true
 
 [[files]]
-file = "mods/effortless.pw.toml"
-hash = "96286ad9d366b212d48fc26087b8c231e9b72c42a5f1c451ef260007ad8171b6"
-metafile = true
-
-[[files]]
 file = "mods/eldritch-mobs.pw.toml"
 hash = "1f3c6fb2c5ee36d3c192889bbae99e80024c6e1b36bb2962373ed3e49972b909"
 metafile = true
