@@ -66,6 +66,11 @@ hash = "46ec2db224a3c45a3517d913a5349b2db389e67964295e00cdbefe25c4a3daa1"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "8e641ae6edb9c0dd8548525d37fdf5c5ea8e0155f4f7c9c5ba393136e7d3fe3b"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "a62ab9c8b01e57c2e7e561565d5d2724cd6d26c3490f8051ce9df0186f32bec1"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "228c250d8c2e02fdaebf252cff633ac212df4880fdb584c9de403d9a27b25120"
+metafile = true
+
+[[files]]
+file = "mods/effortless.pw.toml"
+hash = "96286ad9d366b212d48fc26087b8c231e9b72c42a5f1c451ef260007ad8171b6"
 metafile = true
 
 [[files]]
@@ -316,13 +326,28 @@ hash = "25d828780dc3ae3c8550ad959dfb224c6caf228ca120bd213bb8a3836e7a82aa"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "4ca94185de7ea9f2e2d1b1782f581ab7e1824e74ca16df7ff50f9472285c71f6"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "f1ba5a88acf118f60ae2a7aa9b86eb5dfdbd18958f1e4856425000e4680cb39e"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "79a780f068e2ed9dbc08107f4426244eb8f194b498daf161cab8fee6e1cd11de"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7405c6af15a0e5461ff930da075b5ec31126fdde93f6a1e21068641231ab15ba"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "ac0c03215384ded98e0e536d3d47554e6258b618edd8a72e3303cf999a5ac8fc"
 metafile = true
 
 [[files]]
@@ -368,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/pocketwatch.pw.toml"
 hash = "eddb3dbd0c34802f6f6cb6ce177831c1de65eb24505286ef2c2401e452b97957"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "2320c7dd0c1741da3943a5f0932a688b5323360b895e26a398c4b4a9246be67b"
 metafile = true
 
 [[files]]
@@ -481,6 +511,11 @@ hash = "d48a981bf3e717973832abeb05dbf86ae4778df3b165ea6e9ff58a5beb81945f"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "3cfaf79104f88da8b0802fa731de4a94dbbc98b5f587cf0895abcf2b1c7f08b7"
+metafile = true
+
+[[files]]
 file = "mods/travellerstoasts.pw.toml"
 hash = "d8114ba0de3ec3b8170a7f1b7c9d5d79938e3dedba616a3df020b7e84bf6c419"
 metafile = true
@@ -493,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/true-darkness.pw.toml"
 hash = "4603a978b8879eafeab11a353aceea982918cfd155b87b5a9972d359fa220675"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "c008b7d5197a72ea715003f65db66e3fa98741ba39d17265cd27125b38c54836"
 metafile = true
 
 [[files]]
@@ -518,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/whoami.pw.toml"
 hash = "713dfd18729b313136002650268716cd3d9470064ef4b9cc341fa747ab8656d7"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "08f1cb08565097727d2fe6fcd7edb41fc888e3d0719c8b6dcc93b4b842cbc3af"
 metafile = true
 
 [[files]]

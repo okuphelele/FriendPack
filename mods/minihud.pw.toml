@@ -1,0 +1,13 @@
+name = "MiniHUD"
+filename = "minihud-fabric-1.19.2-0.23.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UMxybHE8/versions/lubuVpiX/minihud-fabric-1.19.2-0.23.3.jar"
+hash-format = "sha512"
+hash = "3604d6380aea71f0f888b99ac44aa407dc26e0a510ec45b9a6097142d4841f6c3fe0287950f89c31ff5be70e740a413c586fa71b03800bf435e5efc1226ece8e"
+
+[update]
+[update.modrinth]
+mod-id = "UMxybHE8"
+version = "lubuVpiX"
