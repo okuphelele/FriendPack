@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/portable-crafting.pw.toml"
-hash = "6e6d175c4086f1cf16057f77cad94e1a534b6d9e93e1a0a6f0d6d5c3975a38ec"
+hash = "9d4ab7c7a1f35439499ab5053e975d816ba643c9023e7760b314725299d8f1eb"
 metafile = true
 
 [[files]]
