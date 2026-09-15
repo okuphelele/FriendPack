@@ -1,0 +1,13 @@
+name = "Project: Save the Pets!"
+filename = "projectsavethepets-3.2.0+2022.e000b2a529.fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VJ6H5k8J/versions/3.2.0%2B2022.e000b2a529.fabric/projectsavethepets-3.2.0%2B2022.e000b2a529.fabric.jar"
+hash-format = "sha512"
+hash = "eded21abbe6567ae2812afbaed8440eb7461f052fd12c9fcf7c5191d01899be346c685a123d5076b7d5331ba1790711f678ce7f08633e91a18c5330d708d944d"
+
+[update]
+[update.modrinth]
+mod-id = "VJ6H5k8J"
+version = "fzHAM74E"

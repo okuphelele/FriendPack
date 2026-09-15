@@ -246,6 +246,11 @@ hash = "86c2ae9ff046bf7e7efc606a6697485ea68c20a8f5388ec0bfe002ff1a325cde"
 metafile = true
 
 [[files]]
+file = "mods/fish-on-the-line.pw.toml"
+hash = "ea7905d4395b15fb819e335b724a1668df9b5c5b20f30fb2081371e4bacc2b95"
+metafile = true
+
+[[files]]
 file = "mods/fog.pw.toml"
 hash = "5293fa12beb5a28bfe372da39a3a9a17b2c8637decaf764dadeee0f4bf626eee"
 metafile = true
@@ -396,6 +401,11 @@ hash = "2320c7dd0c1741da3943a5f0932a688b5323360b895e26a398c4b4a9246be67b"
 metafile = true
 
 [[files]]
+file = "mods/portable-crafting.pw.toml"
+hash = "6e6d175c4086f1cf16057f77cad94e1a534b6d9e93e1a0a6f0d6d5c3975a38ec"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "77ea97238abfa28c31cd5398fed624da9c93ab0af44a21c9e77bdbda389bb665"
 metafile = true
@@ -403,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "00a411955f33abacc2633aeb034827e39badf9149eaec95a74cad4abd508dc58"
+metafile = true
+
+[[files]]
+file = "mods/projectsavethepets.pw.toml"
+hash = "109b310ef13d8e3e6de4a719f3a1f7b23b8cc9ae4546fb0d687b200c48929c70"
 metafile = true
 
 [[files]]
