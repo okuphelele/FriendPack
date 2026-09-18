@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/friendpack-lantern-belt/data/trinkets/tags/items/legs/belt.json"
+hash = "072a7273c8ea60933d245a29f093a119be7066ca35aaaaeb23aace7a505b5fae"
+
+[[files]]
+file = "config/openloader/data/friendpack-lantern-belt/pack.mcmeta"
+hash = "e423b4b5795dec494dfd7e3ee9f02d7dcbc4a0a7dd753761589c56b1f644679f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "ac8b3cf501c238e18016c81a8132313781e0117360aa97c93fb6a5b997ecd6f8"
 metafile = true
@@ -376,6 +384,11 @@ hash = "f6387ab13b0df8a206c4b1b3c58053b1d5ef800023857656ca8b21ff79e880ee"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "f42cec28bfdddb003d146a6180b3cd1b720317c386c6f46a7bb3abce24f204cb"
+metafile = true
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "879cdb47943bdd45959f822d635089522276dc7fcedf85a9122804beb93f380f"
 metafile = true
@@ -428,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/quickshulker.pw.toml"
 hash = "00c8609784f6cafbf3395defaca0af123dba6b4f960f61336b37aee1ca6aefc8"
+metafile = true
+
+[[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "b6d2e6613038a52ae7a8185169bce98a8a2b92d04f3ef5798877a6aeb830083c"
 metafile = true
 
 [[files]]
